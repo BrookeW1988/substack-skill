@@ -1,0 +1,8 @@
+.env
+.session.json
+.chrome-profile/
+.tmp/
+__pycache__/
+*.pyc
+.DS_Store
+drafts/
