@@ -48,5 +48,15 @@ Give the writer (keeping the playbook loaded): the chosen format and why, the
 angle in one sentence, the gathered receipts, 2-3 title options plus a subtitle,
 the links, and the cover image plan.
 
-Structure comes from the chosen format; voice comes from your voice file. They
-compose — they don't compete.
+Structure comes from the chosen format. Voice is the problem in this mode: it's
+the ONE source with no transcript to mine, so there's no voice signal in the
+material itself.
+
+Before drafting, resolve it in this order: a voice file if they have one → read
+3-5 of their real published pieces → ask them to talk the topic out for two
+minutes and paste that transcript → failing all three, write clean plain prose
+and say so in the report. Never invent a persona. See
+`references/substack-structure.md` § The one mode with no voice signal.
+
+The two-minute talk-it-out is underrated — it turns this mode back into the
+good path, where you're mining a real transcript.

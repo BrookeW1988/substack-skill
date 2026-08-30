@@ -36,3 +36,9 @@ give it room to breathe.
 
 Give the writer: the winning post's text, link and stats, the expanded argument,
 the contrarian angle, 2-3 links, and the PII-checked hero image.
+
+**Plus the voice markers.** A caption is short but it's concentrated — it's them
+at their most deliberate. Note the hook construction, the rhythm, the words they
+chose when they only had a few. If the post was a reel, transcribe the audio too;
+that's a much bigger voice sample than the caption. See
+`references/substack-structure.md` § Voice comes from the source.

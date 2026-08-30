@@ -49,7 +49,7 @@ automatically. Nothing is lost — the post is already written.
 2. `references/substack-performance-playbook.md` — the format menu, title
    rules, length targets, Notes strategy. Researched, with sources.
 3. `MAKE-IT-YOURS.md` (once, at setup) — your publication, your CTA, your
-   banned words, your voice file.
+   banned words. Plus the optional voice file, which only topic mode needs.
 
 ## The flow
 
@@ -95,10 +95,15 @@ post's text, the beats, any images). It does NOT decide how the post reads.
 same rules no matter where the material came from. Don't reinvent the writing
 rules per source.
 
-**Voice is yours, not this skill's.** The structure file tells you the shape;
-your own voice file (see `MAKE-IT-YOURS.md`) tells you the sound. If you
-haven't made one yet, the skill writes in clean plain prose and says so in the
-report — it does NOT invent a personality for you.
+**Voice comes from the source.** For video, podcast and social-post modes the
+transcript IS the person talking — read it twice, once for content and once for
+voice, and write the article in the voice you found. That's the best reference
+there is and it costs nothing to use.
+
+Topic/idea mode is the exception: no transcript, no voice signal. That's where a
+voice file (`MAKE-IT-YOURS.md`) or a two-minute talk-it-out earns its place. If
+there's nothing to go on, write clean plain prose and SAY SO in the report —
+never invent a personality. Full rules in `references/substack-structure.md`.
 
 ## Step 4 — the language gate (BLOCKING)
 

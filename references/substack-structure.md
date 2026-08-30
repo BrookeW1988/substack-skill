@@ -13,18 +13,45 @@ person actually talking.
 The language gate (`scripts/voice_gate.py`) blocks the obvious slop. The gate is
 the floor. The goal is a post worth reading even if they never click a link.
 
-## Voice is yours — this file does not supply one
+## Voice comes from the source — mine the transcript
 
-This skill deliberately ships with NO personality baked in. What it gives you is
-structure. The sound is yours.
+This skill ships with NO personality baked in. It supplies structure. The sound
+has to come from somewhere else, and for three of the four sources it's already
+sitting in front of you.
 
-**Make a voice file once** (see `MAKE-IT-YOURS.md`) and this writer loads it
-every run. Until you do, write in clean, plain, specific prose and say so in the
-report — do not invent a persona.
+**A video, a podcast, or a social post IS the person talking.** That transcript
+is the best voice reference you will ever get — better than anything they could
+write down about how they write. So read it TWICE:
 
-A voice file is just a markdown file describing how you write, with real
-examples of your own sentences. The prompt to build one from your existing
-writing is in `MAKE-IT-YOURS.md`.
+1. **For content** — the argument, the examples, the numbers.
+2. **For voice** — how they open, the words they reach for, their metaphors, the
+   opinions they state flat, how they undercut themselves, what they emphasise,
+   how long their thoughts run before they break.
+
+Then write the article in THAT voice. Lift their real phrasings where they're
+good. If they said something better out loud than you'd write it, use their line.
+
+**What NOT to do:** don't transcribe speech into the article. Spoken language has
+tangents, repetition, and filler that reads as sloppy on the page. You're taking
+the voice MARKERS — word choice, rhythm, stance, humour — not the verbatim
+sentences. The test: it should sound like them on a day they wrote carefully, not
+like a transcript someone tidied.
+
+Say in the report which source you took the voice from.
+
+### The one mode with no voice signal
+
+**Topic / idea / rant mode has no transcript.** There's nothing to mine. That's
+the mode where a voice file earns its place — see `MAKE-IT-YOURS.md`. Options,
+best first:
+
+1. They have a voice file → load it.
+2. No voice file, but they've published before → read 3-5 of their real pieces
+   (past posts, emails, captions) and pull voice markers the same way.
+3. Neither → ask them to talk the topic out for two minutes and paste the
+   transcript. Now you're back to mining a transcript, which is the good path.
+4. None of the above → write clean, plain, specific prose and SAY SO in the
+   report. Never invent a persona.
 
 ## NO markdown in the body — except `## ` headings
 

@@ -48,5 +48,11 @@ Gather the material from a published video, then hand it to
 Give the writer: the transcript, the title, 2-3 recent links, the video URL, the
 written-version URL if there is one, and the PII-checked images with alt text.
 
+**Plus the voice markers.** This is their own video — the transcript is the voice
+reference. Pull out how they open, the words they reach for, their metaphors, the
+opinions they state flat, and 3-5 real lines worth keeping close to verbatim.
+The writer needs these, not just the argument. See `references/substack-structure.md`
+§ Voice comes from the source.
+
 A tutorial video usually wants a 3-section shape — the three things it actually
 teaches, each with its own H2 and a real example from the transcript.

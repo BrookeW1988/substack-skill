@@ -45,3 +45,11 @@
 Give the writer: the transcript, the chosen through-line in one sentence, the
 episode title and link, 2-3 links, and any image. It writes an essay around the
 single strongest idea.
+
+**Plus the voice markers**, pulled from the transcript — how they talk when
+they're making this argument, their phrasings, and 3-5 real lines worth keeping.
+A conversation is a rich voice sample; use it. See `references/substack-structure.md`
+§ Voice comes from the source.
+
+If it's an interview, be clear whose voice you're writing in — the host's, unless
+they say otherwise. Don't blend two people into one narrator.

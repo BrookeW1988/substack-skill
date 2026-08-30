@@ -23,16 +23,36 @@ Open `.env` and fill in:
 
 ---
 
-## 2. Your voice file  (20 minutes, and the biggest difference)
+## 2. Your voice file  (optional — only topic mode needs it)
 
-This skill ships with NO personality in it, deliberately. It knows how a
-Substack post should be SHAPED. It doesn't know how you SOUND.
+**Read this before you spend twenty minutes on it, because you probably don't
+need to.**
 
-Make a voice file once and every post gets better. Here's the fastest way:
+Most of the time your voice is already in the source. Hand the skill your video,
+your podcast, or your own social post, and that transcript is you talking. It
+reads it twice — once for what you said, once for how you say things — and writes
+in that voice. Nothing to set up.
 
-1. Find 10-20 pieces of writing that sound like you at your best. Emails you
-   actually sent, captions, past newsletters, voice notes you transcribed. Real
-   sent things, not things you drafted to sound impressive.
+The gap is **topic mode**: "write a substack about X" with no video, no episode,
+no post. There's no transcript, so there's no voice signal in the material.
+
+You have three ways to close that gap, and the free one is first:
+
+**a) Talk it out for two minutes.** Open your voice memos, ramble about the topic
+like you're explaining it to a friend, transcribe it, paste it in. You've just
+made a transcript, which puts you back on the good path. Honestly this is the
+best option — it's fast, and speaking gets more of your real voice out than
+writing about your voice ever will.
+
+**b) Point it at your published work.** "Read my last 5 Substack posts before you
+write this one." No file needed.
+
+**c) Build a voice file** — worth it only if you write from bare topics a lot and
+you're sick of repeating yourself:
+
+1. Find 10-20 pieces of writing that sound like you at your best. Real sent
+   things — emails, captions, past newsletters — not things you drafted to sound
+   impressive.
 2. Put them in one folder.
 3. Open Claude Code in this skill's folder and paste this:
 
@@ -56,7 +76,8 @@ Make a voice file once and every post gets better. Here's the fastest way:
 5. Add a line at the top of `SKILL.md` under "Read first, every run":
    `3. references/my-voice.md — how I sound.`
 
-Do this once. Reuse it in every skill you build.
+If you make one, it's reusable in every other skill you build. That's the real
+argument for it — not this skill, which mostly manages without.
 
 ---
 

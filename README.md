@@ -63,10 +63,17 @@ installing this one verbatim.
 No API keys. No accounts beyond your own Substack. Nothing leaves your machine
 until you publish.
 
-## A note on the voice file
+## A note on voice
 
-This skill ships with no personality in it on purpose. It knows the SHAPE of a
-good Substack post; it doesn't know how you sound. `MAKE-IT-YOURS.md` has a
-20-minute exercise that builds a voice file from your own past writing — do it
-once and every post from then on sounds like you. Skip it and you get competent,
-generic prose, and the skill will tell you that's what happened.
+This skill ships with no personality in it on purpose — but it doesn't need one,
+because most of the time your voice is already in the source.
+
+If you hand it your video, your podcast, or your own post, that transcript is you
+talking. The skill reads it twice — once for what you said, once for HOW you say
+things — and writes the article in that voice. No setup, nothing to prepare.
+
+The exception is writing from a bare topic, where there's no transcript to work
+from. For that there's an optional voice file (`MAKE-IT-YOURS.md`), or you can
+just talk the topic out for two minutes and paste the transcript in — which puts
+you back on the good path. If there's nothing to go on at all, you get clean plain
+prose and the skill tells you that's what happened.
